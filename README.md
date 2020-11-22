@@ -11,6 +11,9 @@ Hi, i'm Jr. Web Developer :smile:. I work at [EmpreWebs](https://www.emprewebs.c
 - 📫 How to reach me: **Connect to me via Email [Tomas](mailto:tomasmvera7@gmail.com)**
 - ⚡ Fun fact: Play games with friends
 
+- :pencil2: I design webs on my free days.
+- :musical_note: I love to hear chill music.
+
 ### Stack i work with :smile:
 
 <p align="center">
@@ -20,12 +23,6 @@ Hi, i'm Jr. Web Developer :smile:. I work at [EmpreWebs](https://www.emprewebs.c
 	<img src="./images/icons/bootstrap.svg" width="32"/>
 	<img src="./images/icons/javascript.svg" width="32"/>
 	<img src="./images/icons/react.svg" width="32"/>
-
-</p>
-
-- :pencil2: I design webs on my free days.
-- :musical_note: I love to hear chill music.
-
 </p>
 
 ### Let's Connect :coffee:
