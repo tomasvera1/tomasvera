@@ -32,5 +32,9 @@ Hi, i'm Jr. Web Developer :smile:. I work at [EmpreWebs](https://www.emprewebs.c
 	<a href="https://www.instagram.com/tommyveraa/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
+ <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=tomasvera1&show_icons=true&theme=buefy" alt="tomasvera1" width="420"/> 
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tomasvera1&layout=compact&theme=buefy" alt="tomasvera1" height="165" />
+ </p>
 
 ![alt text](./images/bottom.svg)
