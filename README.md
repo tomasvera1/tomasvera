@@ -7,7 +7,7 @@ I am a frontend developer and ux/ui designer, eager to progress and in constant 
 
 I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
 
-If you are interested in knowing more about me  [you can see my **about me** in my website⚡️](https://tomasvera.me/about)
+If you are interested in knowing more about me  [you can see my **"about me"** in my website⚡️](https://tomasvera.me/about)
 
 **You can find me on:**
 
