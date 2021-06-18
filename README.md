@@ -1,40 +1,40 @@
-![alt text](./images/top.png)
+<img src="https://jahir.dev/assets/images/brand/logo-full-sm.png" width="144" align="right" hspace="0" />
 
-<p align="center">
+Hello, world! <br/> I'm Tomas Vera 👋
+======
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasvera1" alt="tomasvera1" /> </p>
+I am a frontend developer and ux/ui designer, eager to progress and in constant growth. [Buenos Aires, Argentina](https://goo.gl/maps/4YLCuY2j9fC2AQDR9)
 
-Hi, i'm Jr. Web Developer :smile:. I work at [EmpreWebs](https://www.emprewebs.com/) as a web developer and UX/UI designer. <img src="./images/icons/argentina.svg" width="16"/>
+I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
 
-- 🔭 I’m currently working on [EmpreWebs](https://www.emprewebs.com/)
-- 🌱 I’m currently studying Design UX/UI
-- 📫 How to reach me: **Connect to me via Email [Tomas](mailto:tomasmvera7@gmail.com)**
-- ⚡ Fun fact: Play games with friends
+If you are interested in knowing more about me  [you can see my **about me** in my website⚡️](https://tomasvera.me/about)
 
-- :pencil2: I design webs on my free days.
-- :musical_note: I love to hear chill music.
+**You can find me on:**
 
-### Stack i work with :smile:
+[<img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOpJREFUeNpiYBjW4P///wpA3A/E5/9jgvNQOQVyDe//TzzoJ8VgATQXv0di34dibHIgPQLEWIBs+HwgTkDiO0AxDARA1RBnCVqwJEDF1sM0Y3HEeig/gWBwQSMU7nKk4EKxEN1AJDFknyhQGqlERzoTkh0OVEzhDth8AAMFSJEJ8/Z+LOr3Q+UakMQC0IOOBRbWSHovMDIyHoCK+5Po8g/oAky0Lg3AFgBdjGwzsm8+kmieALEZjFJwHlsQHaBiyBwgKqOhpa5+pNTVj6X4OI83o9G8qMBRkpJc2A18cU3zCoduVeaQAQABBgBb2mB8ePpZSAAAAABJRU5ErkJggg==">](https://tomasvera.me)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tomasvera12/)
+[<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/tommyveraa/)
+<!--
+[<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/>](https://twitch.tv/jahirdotdev/)
+-->
 
-<p align="center">
-	<img src="./images/icons/html.svg" width="32"/>
-	<img src="./images/icons/css.svg" width="32"/>
-	<img src="./images/icons/sass.svg" width="32"/>
-	<img src="./images/icons/bootstrap.svg" width="32"/>
-	<img src="./images/icons/javascript.svg" width="32"/>
-	<img src="./images/icons/react.svg" width="32"/>
-</p>
+<details>
+	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<br/>
+	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
+	<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+	<img src="https://img.shields.io/badge/nextjs-%230071f3.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
+	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+	<img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+	<img src="https://img.shields.io/badge/material%20design-%23222222.svg?&style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
+</details>
 
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/tomasvera1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/tomas-vera-0318871b0/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/tommyveraa/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=tomasvera1&show_icons=true&theme=buefy" alt="tomasvera1s" width="420"/> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tomasvera1&layout=compact&theme=buefy" alt="tomasvera1s" height="165" />
- </p>
-
-![alt text](./images/bottom.svg)
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=tomasvera1&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=tomasvera1&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top Languages" align="top"/>
+</details>
