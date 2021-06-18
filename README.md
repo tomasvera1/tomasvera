@@ -1,4 +1,4 @@
-<img src="https://jahir.dev/assets/images/brand/logo-full-sm.png" width="144" align="right" hspace="0" />
+
 
 Hello, world! <br/> I'm Tomas Vera 👋
 ======
