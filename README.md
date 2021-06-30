@@ -14,9 +14,8 @@ If you are interested in knowing more about me  [you can see my **"about me"** i
 [<img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOpJREFUeNpiYBjW4P///wpA3A/E5/9jgvNQOQVyDe//TzzoJ8VgATQXv0di34dibHIgPQLEWIBs+HwgTkDiO0AxDARA1RBnCVqwJEDF1sM0Y3HEeig/gWBwQSMU7nKk4EKxEN1AJDFknyhQGqlERzoTkh0OVEzhDth8AAMFSJEJ8/Z+LOr3Q+UakMQC0IOOBRbWSHovMDIyHoCK+5Po8g/oAky0Lg3AFgBdjGwzsm8+kmieALEZjFJwHlsQHaBiyBwgKqOhpa5+pNTVj6X4OI83o9G8qMBRkpJc2A18cU3zCoduVeaQAQABBgBb2mB8ePpZSAAAAABJRU5ErkJggg==">](https://tomasvera.me)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tomasvera12/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/tommyveraa/)
-<!--
-[<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/>](https://twitch.tv/jahirdotdev/)
--->
+[<img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOpJREFUeNpiYBjW4P///wpA3A/E5/9jgvNQOQVyDe//TzzoJ8VgATQXv0di34dibHIgPQLEWIBs+HwgTkDiO0AxDARA1RBnCVqwJEDF1sM0Y3HEeig/gWBwQSMU7nKk4EKxEN1AJDFknyhQGqlERzoTkh0OVEzhDth8AAMFSJEJ8/Z+LOr3Q+UakMQC0IOOBRbWSHovMDIyHoCK+5Po8g/oAky0Lg3AFgBdjGwzsm8+kmieALEZjFJwHlsQHaBiyBwgKqOhpa5+pNTVj6X4OI83o9G8qMBRkpJc2A18cU3zCoduVeaQAQABBgBb2mB8ePpZSAAAAABJRU5ErkJggg==">](https://www.behance.net/tomasvera3)
+
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
